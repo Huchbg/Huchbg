@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Huchbg
-- 👀 I’m interested in ...C#
-- 🌱 I’m currently learning ...C#
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning data structures and algorithms alongside C# and JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
