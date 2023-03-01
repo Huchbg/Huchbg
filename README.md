@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and Software development 
 - 🌱 I’m currently learning data structures and algorithms alongside C# and JavaScript 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me on - https://huchbg.github.io/Portfolio/
 
 <!---
 Huchbg/Huchbg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
