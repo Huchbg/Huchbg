@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Huchbg
 - 👀 I’m interested in Web and Software development 
-- 🌱 I’m currently learning data structures and algorithms alongside C# and JavaScript 
+- 🌱 I’m currently working with React js and Next js
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on - https://huchbg.github.io/Portfolio/
 
